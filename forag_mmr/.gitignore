@@ -3,7 +3,5 @@ __pycache__/
 .venv/
 .env
 artifacts/*.npy
-artifacts/metadata.json
-results/*.csv
-results/*.json
-results/plots/*.png
+
+
